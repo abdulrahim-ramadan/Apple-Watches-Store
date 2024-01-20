@@ -1,5 +1,10 @@
 # Django Amazon Store Project
 
+<p align="center">
+<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="100" height="100" alt="Amazon Clone"  />
+</p>
+
+
 ## Overview
 The Django Amazon Store Project is an advanced E-Commerce application built on the Django framework, providing a robust platform for seamless product selling.
 
