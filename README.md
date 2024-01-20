@@ -1,4 +1,4 @@
-# Django Amazon Store Project
+## Django Amazon Store Project ✨
 
 <p align="center">
 <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="100" height="100" alt="Amazon Clone"  />
@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For inquiries or suggestions, reach out to us at [abdalrhim19991@hotmail.com].
 
-Happy coding!
+## Please ⭐ the repo to support our project .
