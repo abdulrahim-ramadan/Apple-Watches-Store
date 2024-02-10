@@ -28,4 +28,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For inquiries or suggestions, reach out to us at [abdalrhim19991@hotmail.com].
 
-## Please ⭐ the repo to support our project ..
+## Please ⭐ the repo to support our project ...
