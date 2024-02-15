@@ -22,10 +22,10 @@ The Django eBay Store Project is an advanced E-Commerce application built on the
 ## Contribution
 We welcome contributions! Please review our [contribution guidelines](CONTRIBUTING.md) for details.
 
-## License
+##\ License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For inquiries or suggestions, reach out to us at [abdalrhim19991@hotmail.com].
 
-## Please ⭐ the repo to support our project ........
+## Please ⭐ the repo to support our projectز
