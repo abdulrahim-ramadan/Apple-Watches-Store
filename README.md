@@ -13,7 +13,7 @@ The Django eBay Store Project is an advanced E-Commerce application built on the
 1. Clone the repository: git clone https://github.com/YourUsername/django-eBay-store.git
 2. Navigate to the project directory: cd django-amazon-store
 3. Install dependencies: pip install -r requirements.txt
-4. Apply migrations: python manage.py migrate
+4.. Apply migrations: python manage.py migrate
 5. Start the development server: python manage.py runserver
 
 ## Configuration
