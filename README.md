@@ -31,11 +31,11 @@ Welcome to the Apple Watch Store project! This is a web-based application where 
 - 🛍 Click on a watch to view detailed information and add it to your cart.
 - 💰 Proceed to checkout and complete the payment process.
 
-## License
+### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+###Contact
 
 If you have any questions or suggestions, feel free to reach out to us at (mail:abdalrhim19991@hotmail.com).
 
