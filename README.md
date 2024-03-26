@@ -1,4 +1,4 @@
-# 🍏 Apple Watch Store
+## 🍏 Apple Watch Store
 
 Welcome to the Apple Watch Store project! This is a web-based application where users can browse and purchase Apple Watches.
 
